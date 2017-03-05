@@ -4,11 +4,11 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Blog</title>
- <link href="http://rnguyen6.github.io/blog/atom.xml" rel="self"/>
- <link href="http://rnguyen6.github.io/blog"/>
+ <title>Projects</title>
+ <link href="http://rnguyen6.github.io/projects/atom.xml" rel="self"/>
+ <link href="http://rnguyen6.github.io/projects"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://rnguyen6.github.io/blog</id>
+ <id>http://rnguyen6.github.io/projects</id>
  <author>
    <name>Ricky Nguyen</name>
    <email>nguyen.rickyh@gmail.com</email>
